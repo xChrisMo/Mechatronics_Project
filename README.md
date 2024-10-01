@@ -12,7 +12,7 @@ The group project was aimed to use C++, Matlab, other technologies and a long li
      Mechatronics_Project
             |-- Project_media
                   |-- screenshot+(3)
-                  |-- model car in operation
+                  |-- line_tracking.mp4
             |-- line_tracking.ino
             |-- obstacle_tracking.ino
            
