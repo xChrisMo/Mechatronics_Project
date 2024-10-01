@@ -19,6 +19,6 @@ The group project was aimed to use C++, Matlab other technologies and a long lis
 ## Code in the Repository
 
 - line_tracking.ino: Line tracking code as written in C++
-- Obstacle_tracking: Obstacle detection and avoidance as deployed on Arduino.
+- obstacle_tracking.ino: Obstacle detection and avoidance as deployed on Arduino.
 
   
