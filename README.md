@@ -1,10 +1,10 @@
 ## Project Overview
 
-This project is Robotics dissertation as submitted to [Dr Paola Falugi](https://www.linkedin.com/in/paola-falugi-699a531/) as by the University of East London's School of Architecture, Computing and Engineering(ACE) Standard.
+This is my Mechatronics and Robotics dissertation submitted to [Dr Paola Falugi](https://www.linkedin.com/in/paola-falugi-699a531/) as by the University of East London's School of Architecture, Computing and Engineering(ACE) Standard.
 
 ## Objective 
 
-The group project was aimed to use C++, Matlab other technologies and a long list of sensors to replicate the operations of a fully functional delivery themed robot 
+The group project was aimed to use C++, Matlab, other technologies and a long list of sensors to replicate the operations of a fully functional delivery themed robot 
 
 
 ## File Description
